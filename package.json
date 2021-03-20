@@ -2,7 +2,7 @@
   "name": "management-education",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kowalski116.github.io/deploy-react/",
+  "homepage": "https://kowalski116.github.io/deploy-react/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
