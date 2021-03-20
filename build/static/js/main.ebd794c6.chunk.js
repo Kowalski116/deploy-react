@@ -1,0 +1,2 @@
+(this["webpackJsonpmanagement-education"]=this["webpackJsonpmanagement-education"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);t(1);var a=t(3),c=t.n(a),s=t(0);var o=function(){return Object(s.jsx)("div",{className:"App",children:"hello"})};c.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.ebd794c6.chunk.js.map
